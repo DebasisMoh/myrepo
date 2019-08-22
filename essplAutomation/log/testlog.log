@@ -1,0 +1,194 @@
+2019-07-18 18:58:30,806 - essplAutomation - INFO - ------Opening Browser------
+2019-07-18 18:58:36,692 - essplAutomation - INFO - ------Opening URL------
+2019-07-18 18:58:39,311 - essplAutomation - INFO - ------Credential provided------
+2019-07-18 18:58:39,800 - essplAutomation - INFO - ------Login------
+2019-07-18 18:58:48,855 - essplAutomation - INFO - ------Customer dashboard page------
+2019-07-18 18:58:58,164 - essplAutomation - INFO - ------Customer Add New page------
+2019-07-18 18:59:02,272 - essplAutomation - INFO - ------Customer Details page------
+2019-07-18 18:59:09,617 - essplAutomation - INFO - ------Confirmation page------
+2019-07-18 18:59:10,007 - essplAutomation - INFO - ------Logout page------
+2019-07-18 18:59:12,856 - essplAutomation - INFO - ------Opening Browser------
+2019-07-18 18:59:16,557 - essplAutomation - INFO - ------Opening URL------
+2019-07-18 18:59:19,155 - essplAutomation - INFO - ------Credential provided------
+2019-07-18 18:59:19,543 - essplAutomation - INFO - ------Login------
+2019-07-18 18:59:27,309 - essplAutomation - INFO - ------Customer dashboard page------
+2019-07-18 18:59:37,056 - essplAutomation - INFO - ------Provide email for search------
+2019-07-18 18:59:39,558 - essplAutomation - INFO - ------Search Customer------
+2019-07-18 18:59:42,814 - essplAutomation - INFO - ------Opening Browser------
+2019-07-18 18:59:46,464 - essplAutomation - INFO - ------Opening URL------
+2019-07-18 18:59:49,022 - essplAutomation - INFO - ------Credential provided------
+2019-07-18 18:59:49,385 - essplAutomation - INFO - ------Login------
+2019-07-18 18:59:56,798 - essplAutomation - INFO - ------Browser closed------
+2019-07-18 18:59:59,168 - essplAutomation - INFO - ------Opening Browser------
+2019-07-18 19:00:03,549 - essplAutomation - INFO - ------Opening URL------
+2019-07-18 19:00:17,576 - essplAutomation - INFO - ------Credential provided------
+2019-07-18 19:00:17,897 - essplAutomation - INFO - ------Login------
+2019-07-18 19:00:25,745 - essplAutomation - INFO - ------Browser closed------
+2019-07-18 19:00:25,901 - essplAutomation - INFO - ------Opening Browser------
+2019-07-18 19:00:29,820 - essplAutomation - INFO - ------Opening URL------
+2019-07-18 19:00:48,091 - essplAutomation - INFO - ------Credential provided------
+2019-07-18 19:00:48,439 - essplAutomation - INFO - ------Login------
+2019-07-18 19:00:49,943 - essplAutomation - INFO - ------Browser closed------
+2019-07-18 21:18:38,466 - essplAutomation - INFO - ------Opening Browser------
+2019-07-18 21:20:12,152 - essplAutomation - INFO - ------Opening Browser------
+2019-07-18 21:23:00,092 - essplAutomation - INFO - ------Opening Browser------
+2019-07-18 21:26:42,283 - essplAutomation - INFO - ------Opening Browser------
+2019-07-18 21:29:12,424 - essplAutomation - INFO - ------Opening Browser------
+2019-07-18 21:29:58,407 - essplAutomation - INFO - ------Opening Browser------
+2019-07-18 21:33:41,594 - essplAutomation - INFO - ------Opening Browser------
+2019-07-18 21:35:01,236 - essplAutomation - INFO - ------Opening Browser------
+2019-07-19 16:40:56,604 - essplAutomation - INFO - ------Opening URL------
+2019-07-19 16:41:17,945 - essplAutomation - INFO - ------Credential provided------
+2019-07-19 16:43:53,043 - essplAutomation - INFO - ------Opening URL------
+2019-07-19 16:44:08,055 - essplAutomation - INFO - ------Credential provided------
+2019-07-19 16:47:26,058 - essplAutomation - INFO - ------Opening URL------
+2019-07-19 16:47:48,056 - essplAutomation - INFO - ------Credential provided------
+2019-07-19 16:47:48,396 - essplAutomation - INFO - ------Login------
+2019-07-19 16:47:58,287 - essplAutomation - INFO - ------Browser closed------
+2019-07-19 20:33:25,550 - essplAutomation - INFO - ------Opening URL------
+2019-07-19 20:33:29,815 - essplAutomation - INFO - ------Credential provided------
+2019-07-19 20:33:29,992 - essplAutomation - INFO - ------Login------
+2019-07-19 20:33:39,302 - essplAutomation - INFO - ------Browser closed------
+2019-07-19 20:34:06,153 - essplAutomation - INFO - ------Opening URL------
+2019-07-19 20:34:08,265 - essplAutomation - INFO - ------Credential provided------
+2019-07-20 20:52:12,328 - essplAutomation - INFO - ------Opening URL------
+2019-07-20 20:52:34,012 - essplAutomation - INFO - ------Credential provided------
+2019-07-20 20:52:38,487 - essplAutomation - INFO - ------Opening URL------
+2019-07-20 20:55:04,804 - essplAutomation - INFO - ------Opening URL------
+2019-07-20 20:55:21,769 - essplAutomation - INFO - ------Credential provided------
+2019-07-20 20:58:09,090 - essplAutomation - INFO - ------Opening URL------
+2019-07-20 20:58:17,986 - essplAutomation - INFO - ------Credential provided------
+2019-07-20 20:58:21,769 - essplAutomation - INFO - ------Opening URL------
+2019-07-20 20:58:28,897 - essplAutomation - INFO - ------Credential provided------
+2019-07-20 20:58:32,683 - essplAutomation - INFO - ------Opening URL------
+2019-07-20 20:58:40,650 - essplAutomation - INFO - ------Credential provided------
+2019-07-20 21:00:15,280 - essplAutomation - INFO - ------Opening URL------
+2019-07-20 21:00:23,087 - essplAutomation - INFO - ------Credential provided------
+2019-07-20 21:07:24,278 - essplAutomation - INFO - ------Opening URL------
+2019-07-20 21:07:31,213 - essplAutomation - INFO - ------Credential provided------
+2019-07-20 21:07:31,953 - essplAutomation - INFO - ------Login------
+2019-07-20 21:07:50,425 - essplAutomation - INFO - ------Browser closed------
+2019-07-20 21:07:55,844 - essplAutomation - INFO - ------Opening URL------
+2019-07-20 21:08:02,903 - essplAutomation - INFO - ------Credential provided------
+2019-07-20 21:08:03,731 - essplAutomation - INFO - ------Login------
+2019-07-20 21:08:13,541 - essplAutomation - INFO - ------Browser closed------
+2019-07-20 21:08:17,025 - essplAutomation - INFO - ------Opening URL------
+2019-07-20 21:08:23,956 - essplAutomation - INFO - ------Credential provided------
+2019-07-20 21:08:24,752 - essplAutomation - INFO - ------Login------
+2019-07-20 21:08:25,965 - essplAutomation - INFO - ------Browser closed------
+2019-07-22 14:32:56,746 - essplAutomation - INFO - ------Opening URL------
+2019-07-22 14:33:05,384 - essplAutomation - INFO - ------Credential provided------
+2019-07-22 14:33:07,176 - essplAutomation - INFO - ------Login------
+2019-07-22 14:33:20,183 - essplAutomation - INFO - ------Browser closed------
+2019-07-22 14:34:49,537 - essplAutomation - INFO - ------Opening URL------
+2019-07-22 14:34:56,681 - essplAutomation - INFO - ------Credential provided------
+2019-07-22 14:34:57,715 - essplAutomation - INFO - ------Login------
+2019-07-22 14:35:07,284 - essplAutomation - INFO - ------Browser closed------
+2019-07-22 14:47:36,226 - essplAutomation - INFO - ------Opening URL------
+2019-07-22 14:47:43,430 - essplAutomation - INFO - ------Credential provided------
+2019-07-22 14:47:45,068 - essplAutomation - INFO - ------Login------
+2019-07-22 14:47:55,506 - essplAutomation - INFO - ------Browser closed------
+2019-07-22 15:04:52,363 - essplAutomation - INFO - ------Opening URL------
+2019-07-22 15:05:02,380 - essplAutomation - INFO - ------Credential provided------
+2019-07-22 15:05:04,247 - essplAutomation - INFO - ------Login------
+2019-07-22 15:05:15,533 - essplAutomation - INFO - ------Browser closed------
+2019-07-22 16:11:54,228 - essplAutomation - INFO - ------Opening URL------
+2019-07-22 16:12:02,242 - essplAutomation - INFO - ------Credential provided------
+2019-07-22 16:12:04,230 - essplAutomation - INFO - ------Login------
+2019-07-22 16:12:16,801 - essplAutomation - INFO - ------Browser closed------
+2019-07-22 16:12:23,118 - essplAutomation - INFO - ------Opening URL------
+2019-07-22 16:12:30,556 - essplAutomation - INFO - ------Credential provided------
+2019-07-22 16:12:31,790 - essplAutomation - INFO - ------Login------
+2019-07-22 16:12:42,233 - essplAutomation - INFO - ------Browser closed------
+2019-07-22 16:12:48,552 - essplAutomation - INFO - ------Opening URL------
+2019-07-22 16:12:55,590 - essplAutomation - INFO - ------Credential provided------
+2019-07-22 16:12:57,074 - essplAutomation - INFO - ------Login------
+2019-07-22 16:12:58,945 - essplAutomation - INFO - ------Browser closed------
+2019-07-22 16:23:46,357 - essplAutomation - INFO - ------Opening URL------
+2019-07-22 16:23:53,861 - essplAutomation - INFO - ------Credential provided------
+2019-07-22 16:23:54,878 - essplAutomation - INFO - ------Login------
+2019-07-22 16:24:03,551 - essplAutomation - INFO - ------Browser closed------
+2019-07-22 16:24:09,084 - essplAutomation - INFO - ------Opening URL------
+2019-07-22 16:24:16,253 - essplAutomation - INFO - ------Credential provided------
+2019-07-22 16:24:17,421 - essplAutomation - INFO - ------Login------
+2019-07-22 16:24:27,957 - essplAutomation - INFO - ------Browser closed------
+2019-07-22 16:24:33,542 - essplAutomation - INFO - ------Opening URL------
+2019-07-22 16:24:40,439 - essplAutomation - INFO - ------Credential provided------
+2019-07-22 16:24:41,205 - essplAutomation - INFO - ------Login------
+2019-07-22 16:24:42,733 - essplAutomation - INFO - ------Browser closed------
+2019-07-22 21:01:53,871 - essplAutomation - INFO - ------Opening URL------
+2019-07-22 21:02:01,943 - essplAutomation - INFO - ------Credential provided------
+2019-07-22 21:02:02,336 - essplAutomation - INFO - ------Login------
+2019-07-22 21:02:17,739 - essplAutomation - INFO - ------Browser closed------
+2019-07-22 21:02:20,614 - essplAutomation - INFO - ------Opening URL------
+2019-07-22 21:02:28,028 - essplAutomation - INFO - ------Credential provided------
+2019-07-22 21:02:28,423 - essplAutomation - INFO - ------Login------
+2019-07-22 21:02:34,461 - essplAutomation - INFO - ------Browser closed------
+2019-07-22 21:02:38,907 - essplAutomation - INFO - ------Opening URL------
+2019-07-22 21:02:46,346 - essplAutomation - INFO - ------Credential provided------
+2019-07-22 21:02:46,717 - essplAutomation - INFO - ------Login------
+2019-07-22 21:02:47,934 - essplAutomation - INFO - ------Browser closed------
+2019-07-23 16:24:07,546 - essplAutomation - INFO - ------Opening URL------
+2019-07-23 16:24:15,546 - essplAutomation - INFO - ------Credential provided------
+2019-07-23 16:24:16,143 - essplAutomation - INFO - ------Login------
+2019-07-23 16:24:24,963 - essplAutomation - INFO - ------Browser closed------
+2019-07-23 16:24:30,160 - essplAutomation - INFO - ------Opening URL------
+2019-07-23 16:24:37,104 - essplAutomation - INFO - ------Credential provided------
+2019-07-23 16:24:37,596 - essplAutomation - INFO - ------Login------
+2019-07-23 16:24:43,844 - essplAutomation - INFO - ------Browser closed------
+2019-07-23 16:24:48,497 - essplAutomation - INFO - ------Opening URL------
+2019-07-23 16:24:55,690 - essplAutomation - INFO - ------Credential provided------
+2019-07-23 16:24:56,017 - essplAutomation - INFO - ------Login------
+2019-07-23 16:24:58,923 - essplAutomation - INFO - ------Browser closed------
+2019-08-19 19:21:24,473 - essplAutomation - INFO - ------Opening URL------
+2019-08-19 19:21:35,102 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 19:21:40,012 - essplAutomation - INFO - ------Opening URL------
+2019-08-19 19:21:52,498 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 19:21:58,143 - essplAutomation - INFO - ------Opening URL------
+2019-08-19 19:22:08,277 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 19:31:43,276 - essplAutomation - INFO - ------Opening URL------
+2019-08-19 19:31:55,732 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 19:31:56,153 - essplAutomation - INFO - ------Login------
+2019-08-19 19:32:06,521 - essplAutomation - INFO - ------Browser closed------
+2019-08-19 19:32:11,317 - essplAutomation - INFO - ------Opening URL------
+2019-08-19 19:32:21,482 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 19:32:21,895 - essplAutomation - INFO - ------Login------
+2019-08-19 19:32:30,537 - essplAutomation - INFO - ------Browser closed------
+2019-08-19 19:32:37,115 - essplAutomation - INFO - ------Opening URL------
+2019-08-19 19:32:49,695 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 19:32:50,119 - essplAutomation - INFO - ------Login------
+2019-08-19 19:32:52,283 - essplAutomation - INFO - ------Browser closed------
+2019-08-19 20:56:03,144 - essplAutomation - INFO - ------Opening URL------
+2019-08-19 20:58:04,616 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 20:58:11,611 - essplAutomation - INFO - ------Opening URL------
+2019-08-19 20:58:38,821 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 21:00:52,216 - essplAutomation - INFO - ------Opening URL------
+2019-08-19 21:01:07,568 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 21:01:16,174 - essplAutomation - INFO - ------Opening URL------
+2019-08-19 21:01:33,606 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 21:01:40,195 - essplAutomation - INFO - ------Opening URL------
+2019-08-19 21:01:57,693 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 22:40:50,521 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 22:41:04,130 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 22:43:58,593 - essplAutomation - INFO - ------Credential provided------
+2019-08-19 22:44:50,941 - essplAutomation - INFO - ------Login------
+2019-08-20 10:17:52,849 - essplAutomation - INFO - ------Credential provided------
+2019-08-20 10:18:02,571 - essplAutomation - INFO - ------Credential provided------
+2019-08-20 10:18:51,702 - essplAutomation - INFO - ------Credential provided------
+2019-08-20 10:18:52,344 - essplAutomation - INFO - ------Login------
+2019-08-20 10:18:59,613 - essplAutomation - INFO - ------Browser closed------
+2019-08-20 10:19:21,390 - essplAutomation - INFO - ------Credential provided------
+2019-08-20 10:19:21,889 - essplAutomation - INFO - ------Login------
+2019-08-20 10:19:23,717 - essplAutomation - INFO - ------Browser closed------
+2019-08-20 18:42:48,782 - essplAutomation - INFO - ------Credential provided------
+2019-08-20 18:42:49,332 - essplAutomation - INFO - ------Login------
+2019-08-20 18:42:59,783 - essplAutomation - INFO - ------Browser closed------
+2019-08-20 18:43:11,094 - essplAutomation - INFO - ------Credential provided------
+2019-08-20 18:43:11,587 - essplAutomation - INFO - ------Login------
+2019-08-20 18:43:15,485 - essplAutomation - INFO - ------Browser closed------
+2019-08-20 19:04:58,052 - essplAutomation - INFO - ------Credential provided------
+2019-08-20 19:04:58,569 - essplAutomation - INFO - ------Login------
+2019-08-20 19:05:17,856 - essplAutomation - INFO - ------Browser closed------
+2019-08-20 19:05:26,392 - essplAutomation - INFO - ------Credential provided------
+2019-08-20 19:05:26,914 - essplAutomation - INFO - ------Login------
+2019-08-20 19:05:28,795 - essplAutomation - INFO - ------Browser closed------
